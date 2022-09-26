@@ -2,19 +2,25 @@
     "board": [
         {
             "stage": 1,
-            "name": "new task added",
+            "name": "new task added in backlog",
             "priority": "high",
             "date": "28/09/2022"
         },
         {
-            "stage": 1,
-            "name": "new task added",
+            "stage": 2,
+            "name": "new task added in todo",
             "priority": "high",
             "date": "28/09/2022"
         },
         {
-            "stage": 1,
-            "name": "new task added",
+            "stage": 3,
+            "name": "new task added in ongoing",
+            "priority": "high",
+            "date": "28/09/2022"
+        },
+        {
+            "stage": 4,
+            "name": "done",
             "priority": "high",
             "date": "28/09/2022"
         }
