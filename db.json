@@ -6,20 +6,20 @@
             "cards": [
                 {
                     "stage": 1,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 1,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 1,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 }
             ]
@@ -30,20 +30,20 @@
             "cards": [
                 {
                     "stage": 2,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 2,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 2,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 }
             ]
@@ -54,20 +54,20 @@
             "cards": [
                 {
                     "stage": 3,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 3,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 3,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 }
             ]
@@ -78,20 +78,20 @@
             "cards": [
                 {
                     "stage": 4,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 4,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
                     "stage": 4,
-                    "name": "new task added",
-                    "priority": "high",
+                    "title": "new task added",
+                    "labels": "high",
                     "date": "28/09/2022"
                 }
             ]
