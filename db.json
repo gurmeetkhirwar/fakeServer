@@ -1,0 +1,22 @@
+{
+    "board": [
+        {
+            "stage": 1,
+            "name": "new task added",
+            "priority": "high",
+            "date": "28/09/2022"
+        },
+        {
+            "stage": 1,
+            "name": "new task added",
+            "priority": "high",
+            "date": "28/09/2022"
+        },
+        {
+            "stage": 1,
+            "name": "new task added",
+            "priority": "high",
+            "date": "28/09/2022"
+        }
+    ]
+}
