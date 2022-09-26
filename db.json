@@ -2,7 +2,7 @@
     "board": [
         {
             "id":1,
-            "stageName": "Backlog",
+            "title": "Backlog",
             "cards": [
                 {
                     "stage": 1,
@@ -26,7 +26,7 @@
         },
         {
             "id":2,
-            "stageName": "To Do",
+            "title": "To Do",
             "cards": [
                 {
                     "stage": 2,
@@ -50,7 +50,7 @@
         },
         {
             "id":3,
-            "stageName": "In Progress",
+            "title": "In Progress",
             "cards": [
                 {
                     "stage": 3,
@@ -74,7 +74,7 @@
         },
         {
             "id":4,
-            "stageName": "Done",
+            "title": "Done",
             "cards": [
                 {
                     "stage": 4,
