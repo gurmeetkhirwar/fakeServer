@@ -5,18 +5,21 @@
             "title": "Backlog",
             "cards": [
                 {
+                    "id":1,
                     "stage": 1,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":2,
                     "stage": 1,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":3,
                     "stage": 1,
                     "title": "new task added",
                     "labels": "high",
@@ -29,18 +32,21 @@
             "title": "To Do",
             "cards": [
                 {
+                    "id":4,
                     "stage": 2,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":5,
                     "stage": 2,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":6,
                     "stage": 2,
                     "title": "new task added",
                     "labels": "high",
@@ -53,18 +59,21 @@
             "title": "In Progress",
             "cards": [
                 {
+                    "id":7,
                     "stage": 3,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":8,
                     "stage": 3,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":9,
                     "stage": 3,
                     "title": "new task added",
                     "labels": "high",
@@ -77,18 +86,21 @@
             "title": "Done",
             "cards": [
                 {
+                    "id":10,
                     "stage": 4,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":11,
                     "stage": 4,
                     "title": "new task added",
                     "labels": "high",
                     "date": "28/09/2022"
                 },
                 {
+                    "id":12,
                     "stage": 4,
                     "title": "new task added",
                     "labels": "high",
