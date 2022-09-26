@@ -1,28 +1,96 @@
 {
     "board": [
         {
-            "stage": 1,
-            "name": "new task added in backlog",
-            "priority": "high",
-            "date": "28/09/2022"
+            "stageName": 1,
+            "cards": [
+                {
+                    "stage": 1,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 1,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 1,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                }
+            ]
         },
         {
-            "stage": 2,
-            "name": "new task added in todo",
-            "priority": "high",
-            "date": "28/09/2022"
+            "stageName": 2,
+            "cards": [
+                {
+                    "stage": 2,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 2,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 2,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                }
+            ]
         },
         {
-            "stage": 3,
-            "name": "new task added in ongoing",
-            "priority": "high",
-            "date": "28/09/2022"
+            "stageName": 3,
+            "cards": [
+                {
+                    "stage": 3,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 3,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 3,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                }
+            ]
         },
         {
-            "stage": 4,
-            "name": "done",
-            "priority": "high",
-            "date": "28/09/2022"
+            "stageName": 4,
+            "cards": [
+                {
+                    "stage": 4,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 4,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                },
+                {
+                    "stage": 4,
+                    "name": "new task added",
+                    "priority": "high",
+                    "date": "28/09/2022"
+                }
+            ]
         }
     ]
 }
